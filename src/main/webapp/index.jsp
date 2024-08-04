@@ -7,7 +7,7 @@
 </head>
 <body class="bg-blue-500">
 
-    <div class="bg-white mx-auto text-center w-1/2 py-5 shadow-xl rounded-3xl my-96 max-w-2xl">
+    <div class="bg-white mx-auto text-center w-1/2 py-5 shadow-xl rounded-3xl my-56 max-w-2xl">
         <h2 class="text-4xl font-semibold border-b pb-2 mx-6">Compound Interest Calculator</h2>
         <h3 class="bg-red-300 text-red-900 font-semibold text-xl w-80 rounded-lg my-2 mx-auto">${error}</h3>
         <form method="post" action="/">
