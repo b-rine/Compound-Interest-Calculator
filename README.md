@@ -1,0 +1,1 @@
+Basic compound interest calculator
